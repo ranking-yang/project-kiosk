@@ -30,17 +30,28 @@ public class TeamReturnMinus1 {
 |---|---|---|---|---|---|
 
 ## 구현된기능
-1. 쓰레드를 통한 화면 변화(대기화면, 메인스크린 타이머 등) 구현. 
+1. 쓰레드를 통한 화면 변화(대기화면, 메인스크린 타이머 등) 구현
+Link:[SourceCode](https://github.com/AmuGeoNaHae/Kiosk_Project/blob/master/src/project/WaitingScreen.java,"Thread link")
 2. DAO를 통해 가져온 데이터를 이용한 메뉴스크린 구현 
+Link:[SourceCode](,"MenuScreen link")
 3. CellRenderer를 활용한 선택목록(장바구니) 내부의 버튼(x, +, -) 구현 
+Link:[SourceCode](,"OrderList link")
 4. JTable를 이용해 세부목록(주문, 메뉴&매출 관리) 구현
+Link:[SourceCode](,"JTable link")
 5. NUMPAD스크린을 이용한 쿠폰, 스탬프 관리 기능 구현 
+Link:[SourceCode](,"Numpad link")
 6. 간단한 암호화기능 적용(로그인, 고객전화번호 관리)
+Link:[SourceCode](,"Encryption link")
 7. DB에 저장된 제품의 정보를 통해 추가 가능한 옵션(샷, 크림 등)만 출력되는 로직 구현
+Link:[SourceCode](,"Option link")
 8. 메뉴를 추가, 수정, 삭제 시에 Files클래스를 이용하여 이미지파일도 관리될 수 있도록 구현
+Link:[SourceCode](,"Management link")
 9. 매출확인 시 날짜를 선택할 수 있는 기능 구현
+Link:[SourceCode](,"DatePicker link")
 10. DB에 저장된 이미지 파일의 상대경로를 바탕으로 이미지 적용
+Link:[SourceCode](,"ImageDirectory link")
 11. UX를 고려하여 불필요한 데이터 교환을 최소화.
+Link:[SourceCode](,"DataExchange link")
 
 ## 실제구현 모습
 <img src=".\images\Example_Images\PaymentFlow.gif" alt="결제 흐름" width="500">  <img src=".\images\Example_Images\ManagerFlow.gif" alt="관리자모드 흐름" width="500" >
