@@ -31,9 +31,9 @@ public class TeamReturnMinus1 {
 
 ## 구현된기능
 1. 쓰레드를 통한 화면 변화(대기화면, 메인스크린 타이머 등) 구현<br>
-Link:[SourceCode](https://github.com/AmuGeoNaHae/Kiosk_Project/blob/master/src/project/WaitingScreen.java, "Thread link")
+Link:[SourceCode](https://github.com/AmuGeoNaHae/Kiosk_Project/blob/master/src/project/WaitingScreen.java , "Thread link")
 2. DAO를 통해 가져온 데이터를 이용한 메뉴스크린 구현<br>
-Link:[SourceCode](https://github.com/AmuGeoNaHae/Kiosk_Project/blob/master/src/database/dao/DataCollection.java, "MenuScreen link")
+Link:[SourceCode](https://github.com/AmuGeoNaHae/Kiosk_Project/blob/master/src/database/dao/DataCollection.java "MenuScreen link")
 3. CellRenderer를 활용한 선택목록(장바구니) 내부의 버튼(x, +, -) 구현<br>
 Link:[SourceCode](https://github.com/AmuGeoNaHae/Kiosk_Project/tree/master/src/main_menu/order_list, "OrderList link")
 4. JTable를 이용해 세부목록(주문, 메뉴&매출 관리) 구현<br>
