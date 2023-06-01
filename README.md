@@ -29,6 +29,19 @@ public class TeamReturnMinus1 {
 | [<img src="https://i.namu.wiki/i/SYrBI_p_biVutwbD1BAgay_FQMbcUHSvomKVjKnhZiIc0i_BlCRiYyPN0aB8Ye8aoD5S4YQaXy8o5YvA8nHa1ppT408YHFz0U3LmH8ZQUmD--npomEE5Ex4vhEH5DHXNQ7nmfanMyaoUKJ6QZK3niQ.svg" alt="Java" width="30">](https://www.oracle.com/) |  [<img src="https://mpng.subpng.com/20180509/jpw/kisspng-swing-graphical-user-interface-javafx-java-foundat-5af37e6e6700f8.6663967215259070544219.jpg" alt="swing" width="30">](https:///www.oracle.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="30">](https://git-scm.com/) |  [<img src="https://www.eclipse.org/downloads/assets/public/images/logo-eclipse.png" width="30">](https://www.eclipse.org/) | [<img src="https://i.namu.wiki/i/RG9FxI230sOdulAeM6NgoU8pro9a27mCR9ZnkCtTVaAW0xdE59ewXvDXlFPj9BneL9xHshhiGizHd38W3_TbQmElm1x3HnIc5jow_JVQKVL1qVXQOoB-qkUsFQAKq_rzc3kKLDD4uK4BwUCM1B4vzA.webp" alt="oracle DB" width="60">](https://www.oracle.com/) | [<img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" width="30">](https://github.com/)  |
 |---|---|---|---|---|---|
 
+## 구현된기능
+1. 쓰레드를 통한 화면 변화(대기화면, 메인스크린 타이머 등) 구현. 
+2. DAO를 통해 가져온 데이터를 이용한 메뉴스크린 구현 
+3. CellRenderer를 활용한 선택목록(장바구니) 내부의 버튼(x, +, -) 구현 
+4. JTable를 이용해 세부목록(주문, 메뉴&매출 관리) 구현
+5. NUMPAD스크린을 이용한 쿠폰, 스탬프 관리 기능 구현 
+6. 간단한 암호화기능 적용(로그인, 고객전화번호 관리)
+7. DB에 저장된 제품의 정보를 통해 추가 가능한 옵션(샷, 크림 등)만 출력되는 로직 구현
+8. 메뉴를 추가, 수정, 삭제 시에 Files클래스를 이용하여 이미지파일도 관리될 수 있도록 구현
+9. 매출확인 시 날짜를 선택할 수 있는 기능 구현
+10. DB에 저장된 이미지 파일의 상대경로를 바탕으로 이미지 적용
+11. UX를 고려하여 불필요한 데이터 교환을 최소화.
+
 ## 실제구현 모습
 <img src=".\images\Example_Images\PaymentFlow.gif" alt="결제 흐름" width="500">  <img src=".\images\Example_Images\ManagerFlow.gif" alt="관리자모드 흐름" width="500" >
 
