@@ -26,8 +26,10 @@ public class TeamReturnMinus1 {
 }
 ``` 
 ## 개발환경🛠️
-| [<img src="https://i.namu.wiki/i/SYrBI_p_biVutwbD1BAgay_FQMbcUHSvomKVjKnhZiIc0i_BlCRiYyPN0aB8Ye8aoD5S4YQaXy8o5YvA8nHa1ppT408YHFz0U3LmH8ZQUmD--npomEE5Ex4vhEH5DHXNQ7nmfanMyaoUKJ6QZK3niQ.svg" alt="Java" width="30">](https://www.oracle.com/) |  [<img src="https://mpng.subpng.com/20180509/jpw/kisspng-swing-graphical-user-interface-javafx-java-foundat-5af37e6e6700f8.6663967215259070544219.jpg" alt="swing" width="30">](https:///www.oracle.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="30">](https://git-scm.com/) |  [<img src="https://www.eclipse.org/downloads/assets/public/images/logo-eclipse.png" width="30">](https://www.eclipse.org/) | [<img src="https://i.namu.wiki/i/RG9FxI230sOdulAeM6NgoU8pro9a27mCR9ZnkCtTVaAW0xdE59ewXvDXlFPj9BneL9xHshhiGizHd38W3_TbQmElm1x3HnIc5jow_JVQKVL1qVXQOoB-qkUsFQAKq_rzc3kKLDD4uK4BwUCM1B4vzA.webp" alt="oracle DB" width="60">](https://www.oracle.com/) | [<img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" width="30">](https://github.com/)  |
-|---|---|---|---|---|---|
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"> <img src="https://img.shields.io/badge/OracleSQL-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
+<img src="https://img.shields.io/badge/JAVA Swing-#007054?style=for-the-badge&logo=GitHub&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
 
 ## 구현된기능
 1. 쓰레드를 통한 화면 변화(대기화면, 메인스크린 타이머 등) 구현<br>
